@@ -1,0 +1,31 @@
+{
+    "name": "mobile-css",
+    "version": "1.0.0",
+    "description": "A collection of CSS utilities for building modern web applications.",
+    "main": "dist/xs.min.css",
+    "author": "Coder-raju",
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/your-username/your-css-package.git"
+    },
+    "keywords": [
+      "css",
+      "utilities",
+      "styles"
+    ],
+    "homepage": "https://github.com/your-username/your-css-package",
+    "bugs": {
+      "url": "https://github.com/your-username/your-css-package/issues"
+    },
+    "dependencies": {
+      "some-dependency": "^1.0.0"
+    },
+    "devDependencies": {
+      "some-dev-dependency": "^1.0.0"
+    },
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    }
+  }
+  
